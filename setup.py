@@ -4,7 +4,7 @@ setup(
     name='python-magic-pure',
     version='0.1.0',
     description='Pure python replacement for python-magic.',
-    url='http://github.com/jkapelner/python-magic-pure',
+    url='https://github.com/jkapelner/python-magic-pure',
     author='Jordan Kapelner',
     author_email='',
     license='MIT',
